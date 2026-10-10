@@ -1,0 +1,32 @@
+# HistoryJanus baseline begin
+*.bak
+*.buildwithskipanalyzers
+*.cache
+*.dwl
+*.dwl2
+*.elk
+*.eod
+*.eox
+*.flk
+*.idb
+*.ilk
+*.lck
+*.log
+*.lref
+*.obj
+*.pdb
+*.slk
+*.suo
+*.tlog
+*.tmp
+*.up2date
+*.user
+*.vsidx
+*.xlk
+# HistoryJanus baseline end
+
+# HistoryJanus oversize begin
+# 本块由 HistoryJanus 维护：≥100MB、决定不再纳入 git 的具体文件。本地文件保留。
+# 它必须留在文件最后——排在前面会被 managed 块尾部的 !z-*/ 豁免重新放回来。
+/b-Office/2-4.doc
+# HistoryJanus oversize end
